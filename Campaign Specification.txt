@@ -1,0 +1,22 @@
+Campaign management system specification
+
+
+Game turn sequence
+
+
+
+Unit Movement
+
+
+Units that are contacted by enemies moving into their square
+	If the unit is moving and not screening they turn to face enemy
+	If the unit moving and not screening they end of their march, they ended any forced march, but they retain their existing route
+	If the unit is screening they try to withdraw
+	If halted and not in contact and not contacted in the rear retain current facing
+	If halted and not in contact and contacted in the rear turn to face
+	If halted and not in contact and no current facing turn to face
+	If the unit is already in contact do nothing
+
+
+
+
