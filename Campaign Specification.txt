@@ -17,6 +17,8 @@ Units that are contacted by enemies moving into their square
 	If halted and not in contact and no current facing turn to face
 	If the unit is already in contact do nothing
 
+new content
+
 
 
 
